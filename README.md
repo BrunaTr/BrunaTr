@@ -22,18 +22,18 @@ Aqui estão alguns dos meus projetos mais recentes:
 - Projeto de Análise de Dados (Power BI): Projeto de análise de dados com Power BI para explorar conjuntos de dados e criar dashboards informativos: Em desenvolvimento
 
 💬 Vamos nos conectar!
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/bruna-traque/
 
 Estou aberta para conversar sobre colaborações, projetos open-source e novas oportunidades! 🤝
 
 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunatr&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 🏆 Tecnologias que estou aprendendo
 Python
 
-Lowcode/Nocode
+Low code/No code
 
 Power BI
 
