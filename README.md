@@ -4,7 +4,8 @@ Sou apaixonada por programação, sempre em busca de novos desafios e oportunida
 Minha jornada está só começando, e eu adoraria me conectar com outros desenvolvedores e profissionais da área!
 
 🔧 O que eu estou aprendendo e criando:
-Atualmente, estou trabalhando em:
+
+📚 Cursando Desenvolvimento de Sistemas - Java.
 
 📚 Projetos práticos para melhorar minhas habilidades em Python e backend.
 
